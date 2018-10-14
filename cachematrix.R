@@ -1,7 +1,6 @@
 ## makeCacheMatrix creates a matrix or sets/gets the inverse.
 ## cacheSolve returns calculated inverse or inverse from cache if exists.
 
-## Write a short comment describing this function
 ## Creates list of functions to
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
